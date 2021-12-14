@@ -1,1 +1,3 @@
-# product-review-backend-demo
+# Strapi application
+
+Strapi backend for Yuppiechef product review
